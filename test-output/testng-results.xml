@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-07T13:29:36 EDT" name="Default suite" finished-at="2023-10-07T13:29:49 EDT" duration-ms="13190">
+    <groups>
+    </groups>
+    <test started-at="2023-10-07T13:29:36 EDT" name="Default test" finished-at="2023-10-07T13:29:49 EDT" duration-ms="13190">
+      <class name="com.facebook.loginTests.LoginFunctionalTest">
+        <test-method is-config="true" signature="openFacebook()[pri:0, instance:com.facebook.loginTests.LoginFunctionalTest@6a6cb05c]" started-at="2023-10-07T13:29:36 EDT" name="openFacebook" finished-at="2023-10-07T13:29:41 EDT" duration-ms="4607" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openFacebook -->
+        <test-method is-config="true" signature="openApp()[pri:0, instance:com.facebook.loginTests.LoginFunctionalTest@6a6cb05c]" started-at="2023-10-07T13:29:41 EDT" name="openApp" finished-at="2023-10-07T13:29:43 EDT" duration-ms="2501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method signature="userNameTest()[pri:0, instance:com.facebook.loginTests.LoginFunctionalTest@6a6cb05c]" started-at="2023-10-07T13:29:43 EDT" name="userNameTest" finished-at="2023-10-07T13:29:43 EDT" duration-ms="162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userNameTest -->
+        <test-method is-config="true" signature="openApp()[pri:0, instance:com.facebook.loginTests.LoginFunctionalTest@6a6cb05c]" started-at="2023-10-07T13:29:43 EDT" name="openApp" finished-at="2023-10-07T13:29:46 EDT" duration-ms="2717" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method signature="passwordTest()[pri:1, instance:com.facebook.loginTests.LoginFunctionalTest@6a6cb05c]" started-at="2023-10-07T13:29:46 EDT" name="passwordTest" finished-at="2023-10-07T13:29:46 EDT" duration-ms="230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- passwordTest -->
+        <test-method is-config="true" signature="openApp()[pri:0, instance:com.facebook.loginTests.LoginFunctionalTest@6a6cb05c]" started-at="2023-10-07T13:29:46 EDT" name="openApp" finished-at="2023-10-07T13:29:49 EDT" duration-ms="2780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method signature="loginTest()[pri:2, instance:com.facebook.loginTests.LoginFunctionalTest@6a6cb05c]" started-at="2023-10-07T13:29:49 EDT" name="loginTest" finished-at="2023-10-07T13:29:49 EDT" duration-ms="111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.facebook.loginTests.LoginFunctionalTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
